@@ -1,16 +1,25 @@
-### Hi there 👋
+## iOS Developer (Since 2020 - …)
 
-<!--
-**mukatayev1/mukatayev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- Mobile App Architecture
+- UX/UI
+- CI/CD
+- WWDC
 
-Here are some ideas to get you started:
+## Apps
+ - MyOKR: App store link
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=mukatayev1&show_icons=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mukatayev1&theme=dark" width="48%" >
+
+### Languages I speak:
+- English, Russian, Kazakh, Korean, Turkish
+
+### :iphone:Contacts :
+**LinkedIn** : https://www.linkedin.com/in/aidosmukatayev/
+
+**Personal email** : mukatayev19@gmail.com
+
+**Official email** : aidosmukatayev@gmail.com
