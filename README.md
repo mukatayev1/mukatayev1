@@ -11,3 +11,6 @@
 **Personal email** : mukatayev19@gmail.com
 
 **Official email** : aidosmukatayev@gmail.com
+
+### :round_pushpin: Location:
+**Seoul, South Korea**
