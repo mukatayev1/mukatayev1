@@ -1,4 +1,4 @@
-## iOS Developer (Since 2020 - …)
+## iOS Developer
 
 ## Github Stats
 
