@@ -1,11 +1,5 @@
 ## iOS Developer (Since 2020 - …)
 
-## Interests
-- Mobile App Architecture
-- UX/UI
-- CI/CD
-- WWDC
-
 ## Apps
  - MyOKR: App store link
 
@@ -16,6 +10,14 @@
 
 ### Languages I speak:
 - English, Russian, Kazakh, Korean, Turkish
+
+## Interests
+- Mobile App Architecture
+- UX/UI
+- CI/CD
+
+## Stack
+- UIKit, Combine, RxSwift/RxCocoa, HealthKit, CoreData, UI & Unit Testing, CI/CD, MVVM
 
 ### :iphone:Contacts :
 **LinkedIn** : https://www.linkedin.com/in/aidosmukatayev/
