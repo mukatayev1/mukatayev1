@@ -1,4 +1,4 @@
-### Hey, I am Aidos! and I am an iOS Developer
+### Hey, I am Aidos and I am an iOS Developer
 
 ## My App
 | <img src="https://user-images.githubusercontent.com/53441647/214018934-b3dce3a3-6224-484a-81e2-a97baa2c478b.png" width="100"/> |
