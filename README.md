@@ -7,7 +7,7 @@ Currently living in Seoul, South Korea.
 
 Set and manage your personal goals with OKR framework very simply.
 
-> UIKit, Combine, CoreData, MVVM, Social Login (Google, Apple), Animations
+> UIKit, Combine, CoreData, MVVM, Social Login (Google, Apple), Animations, Fastlane, Unit tests
 
 ## Github Stats
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mukatayev1&theme=dark" width="48%" >
