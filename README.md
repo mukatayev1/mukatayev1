@@ -18,7 +18,7 @@ Purpose: MyOKR is a goal setting and management app that utilizes the OKR (Objec
 <a href="https://apps.apple.com/us/app/myokr/id1659425586"><img src="https://www.atrinh.com/list/images/download.svg" width="130"></a>
 
 ## Github Stats
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mukatayev1&theme=dark" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mukatayev1&theme=dark" width="68%" >
 
 ## :iphone:Contacts :
 **LinkedIn** : https://www.linkedin.com/in/aidosmukatayev/
