@@ -1,6 +1,5 @@
 ## About Me
 Hello, I'm Aidos and I am an iOS Engineer.<br>
-Currently living in Seoul, South Korea.
 
 My blog: [Medium](https://medium.com/@mukatayev19/) 
 
