@@ -1,8 +1,6 @@
 ## About Me
 Hello, I'm Aidos and I am an iOS Engineer.<br>
 
-My blog: [Medium](https://medium.com/@mukatayev19/) 
-
 ## Personal Apps
 
 ### MyOKR
