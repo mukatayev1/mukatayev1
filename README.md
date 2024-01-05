@@ -10,8 +10,6 @@ Name: MyOKR
 
 Purpose: MyOKR is a goal setting and management app that utilizes the OKR (Objectives and Key Results) framework in its structure. The app helps users set clear and measurable objectives and track their progress towards achieving them through a simple and intuitive interface. The app helps users to define objectives, determine key results, set priorities, and track progress.
 
-> Swift, UIKit, Combine, CoreData, MVVM (Input/Output), Coordinator pattern, Unit Testing, Fastlane, SwiftLint, Social Login (Google, Apple), Modularization, SPM, Debugging, Git, Firebase
-
 <a href="https://apps.apple.com/us/app/myokr/id1659425586"><img src="https://www.atrinh.com/list/images/download.svg" width="130"></a>
 
 ## Github Stats
